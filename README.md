@@ -3,6 +3,9 @@
 > An interactive, modern **MERN Stack Data Visualization Dashboard** for macroeconomic strategic foresight and intelligence analysis, built with **React.js, Tailwind CSS, Recharts, Node.js, Express.js, and MongoDB Atlas**.
 
 ---
+## ☁️ Live Demo
+
+[**View Live Project →**](https://blackcoffer-sigma.vercel.app/)
 
 ## 📸 Key Features & Visualizations
 
